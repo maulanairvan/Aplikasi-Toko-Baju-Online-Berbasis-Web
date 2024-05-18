@@ -4,7 +4,7 @@ Aplikasi Toko Baju Berbasis Web adalah sebuah sistem informasi penjualan baju ya
 Nama Anggota Kelompok :
 1. Fathia Bilqish Wulandari (22050974082)
 2. Savana Putra Aditama (22050974100)
-3. Amanda Rizky Putri W. (22050974101)
+3. Amanda Rizky Putri Wibowo (22050974101)
 4. Muhammad Irvan Maulana (22050974107)
 
 URL Link Prodi: https://pendidikan-ti.ft.unesa.ac.id/
